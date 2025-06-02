@@ -47,6 +47,6 @@
 
 ###
 
-<h3 align="left">🧑‍💻 About me:<br>I'm a second-year technical school student majoring in programming.  <br>I focus mostly on **low-level programming** in **C++** and **C**, but I also use **JavaScript**, **Python**, and **CMake** depending on the project.<br><br>I enjoy working close to the system, learning how things really work, and experimenting with different tools to improve my workflow.<br><br>---<br><br>🛠️ Tools & Technologies<br><br>```text<br>Languages:     C++, C, JavaScript, Python, CMake  <br>Tools:         Git, GitHub, VS Code, Cursor  <br>Systems:       Linux (Ubuntu/Arch), Windows, macOS</h3>
+<h3 align="left">🧑‍💻 About me:<br>I'm a second-year technical school student majoring in programming.  <br>I focus mostly on low-level programming in C++ and C, but I also use JavaScript, Python, and CMake depending on the project.<br><br>I enjoy working close to the system, learning how things really work, and experimenting with different tools to improve my workflow.<br><br>---<br><br>🛠️ Tools & Technologies<br><br>Languages:     C++, C, JavaScript, Python, CMake  <br>Tools:         Git, GitHub, VS Code, Cursor  <br>Systems:       Linux (Ubuntu/Arch), Windows, macOS</h3>
 
 ###
