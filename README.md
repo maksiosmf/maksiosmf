@@ -49,10 +49,6 @@
 
 ###
 
-<img align="right" height="270" src="https://cdn.discordapp.com/attachments/1346194496358056026/1378008778972332142/Maciak_Patriota.gif?ex=683e55ef&is=683d046f&hm=0f9c4ad2be800ef9ee5db6da9a0eb1bdcc3d34729c163792c9f8efb697785904&"  />
-
-###
-
-<h3 align="left">🧑‍💻 About me:<br>I'm a second-year technical school student majoring in programming.  <br>I focus mostly on low-level programming in C++ and C, but I also use JavaScript, Python, and CMake depending on the project.<br><br>I enjoy working close to the system, learning how things really work, and experimenting with different tools to improve my workflow.<br><br><br>🛠️ Tools & Technologies<br><br>Languages:     C++, C, JavaScript, Python, CMake  <br>Tools:         Git, GitHub, VS Code, Cursor  <br>Systems:       Linux (Ubuntu/Arch), Windows, macOS</h3>
+<h3 align="left">🧑‍💻 About Me<br>I’m a second-year student at a technical secondary school majoring in programming.<br>I mainly focus on front-end development using React, but I also have experience with backend and low-level programming.<br><br>I build websites using HTML, CSS, and JavaScript, making sure they look good and work well. I’m also interested in how things work under the hood and enjoy exploring tools that improve my daily workflow. Besides coding, I work with graphic design tools to create interfaces and visual projects.<br><br><br>🛠️ Languages & Technologies<br>JavaScript, TypeScript, React, HTML5, CSS3, Python, C#, Java, Node.js, Redux, MongoDB<br><br><br>🎨 Design Tools<br>Adobe Photoshop, Adobe XD, Adobe Illustrator<br><br><br>🧰 Development Tools & IDEs<br>Git, GitHub, Visual Studio Code, Cursor, CLion, IntelliJ IDEA<br><br><br>💻 Operating Systems<br>Linux (Ubuntu / Arch), Windows, macOS</h3>
 
 ###
