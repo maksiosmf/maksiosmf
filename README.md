@@ -9,10 +9,6 @@
 
 ###
 
-<img align="right" height="270" src="https://cdn.discordapp.com/attachments/1346194496358056026/1378008778972332142/Maciak_Patriota.gif?ex=683e55ef&is=683d046f&hm=0f9c4ad2be800ef9ee5db6da9a0eb1bdcc3d34729c163792c9f8efb697785904&"  />
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -47,6 +43,10 @@
 
 ###
 
-<h3 align="left">🧑‍💻 About me:<br>I'm a second-year technical school student majoring in programming.  <br>I focus mostly on low-level programming in C++ and C, but I also use JavaScript, Python, and CMake depending on the project.<br><br>I enjoy working close to the system, learning how things really work, and experimenting with different tools to improve my workflow.<br><br>---<br><br>🛠️ Tools & Technologies<br><br>Languages:     C++, C, JavaScript, Python, CMake  <br>Tools:         Git, GitHub, VS Code, Cursor  <br>Systems:       Linux (Ubuntu/Arch), Windows, macOS</h3>
+<img align="right" height="270" src="https://cdn.discordapp.com/attachments/1346194496358056026/1378008778972332142/Maciak_Patriota.gif?ex=683e55ef&is=683d046f&hm=0f9c4ad2be800ef9ee5db6da9a0eb1bdcc3d34729c163792c9f8efb697785904&"  />
+
+###
+
+<h3 align="left">🧑‍💻 About me:<br>I'm a second-year technical school student majoring in programming.  <br>I focus mostly on low-level programming in C++ and C, but I also use JavaScript, Python, and CMake depending on the project.<br><br>I enjoy working close to the system, learning how things really work, and experimenting with different tools to improve my workflow.<br><br><br>🛠️ Tools & Technologies<br><br>Languages:     C++, C, JavaScript, Python, CMake  <br>Tools:         Git, GitHub, VS Code, Cursor  <br>Systems:       Linux (Ubuntu/Arch), Windows, macOS</h3>
 
 ###
