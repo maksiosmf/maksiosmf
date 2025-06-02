@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://cdn.discordapp.com/attachments/1346194496358056026/1378008778972332142/Maciak_Patriota.gif?ex=683e55ef&is=683d046f&hm=0f9c4ad2be800ef9ee5db6da9a0eb1bdcc3d34729c163792c9f8efb697785904&"  />
+<img align="right" height="270" src="https://cdn.discordapp.com/attachments/1346194496358056026/1378008778972332142/Maciak_Patriota.gif?ex=683e55ef&is=683d046f&hm=0f9c4ad2be800ef9ee5db6da9a0eb1bdcc3d34729c163792c9f8efb697785904&"  />
 
 ###
 
